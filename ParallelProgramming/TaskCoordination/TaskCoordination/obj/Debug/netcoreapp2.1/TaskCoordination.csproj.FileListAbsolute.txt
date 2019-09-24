@@ -1,0 +1,11 @@
+C:\CustomData\Study\C#\ParallelProgramming\TaskCoordination\TaskCoordination\bin\Debug\netcoreapp2.1\TaskCoordination.deps.json
+C:\CustomData\Study\C#\ParallelProgramming\TaskCoordination\TaskCoordination\bin\Debug\netcoreapp2.1\TaskCoordination.runtimeconfig.json
+C:\CustomData\Study\C#\ParallelProgramming\TaskCoordination\TaskCoordination\bin\Debug\netcoreapp2.1\TaskCoordination.runtimeconfig.dev.json
+C:\CustomData\Study\C#\ParallelProgramming\TaskCoordination\TaskCoordination\bin\Debug\netcoreapp2.1\TaskCoordination.dll
+C:\CustomData\Study\C#\ParallelProgramming\TaskCoordination\TaskCoordination\bin\Debug\netcoreapp2.1\TaskCoordination.pdb
+C:\CustomData\Study\C#\ParallelProgramming\TaskCoordination\TaskCoordination\obj\Debug\netcoreapp2.1\TaskCoordination.csprojAssemblyReference.cache
+C:\CustomData\Study\C#\ParallelProgramming\TaskCoordination\TaskCoordination\obj\Debug\netcoreapp2.1\TaskCoordination.csproj.CoreCompileInputs.cache
+C:\CustomData\Study\C#\ParallelProgramming\TaskCoordination\TaskCoordination\obj\Debug\netcoreapp2.1\TaskCoordination.AssemblyInfoInputs.cache
+C:\CustomData\Study\C#\ParallelProgramming\TaskCoordination\TaskCoordination\obj\Debug\netcoreapp2.1\TaskCoordination.AssemblyInfo.cs
+C:\CustomData\Study\C#\ParallelProgramming\TaskCoordination\TaskCoordination\obj\Debug\netcoreapp2.1\TaskCoordination.dll
+C:\CustomData\Study\C#\ParallelProgramming\TaskCoordination\TaskCoordination\obj\Debug\netcoreapp2.1\TaskCoordination.pdb

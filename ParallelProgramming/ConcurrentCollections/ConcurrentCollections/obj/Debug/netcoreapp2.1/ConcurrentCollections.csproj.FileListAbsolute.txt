@@ -1,0 +1,11 @@
+C:\CustomData\Study\C#\ParallelProgramming\ConcurrentCollections\ConcurrentCollections\bin\Debug\netcoreapp2.1\ConcurrentCollections.deps.json
+C:\CustomData\Study\C#\ParallelProgramming\ConcurrentCollections\ConcurrentCollections\bin\Debug\netcoreapp2.1\ConcurrentCollections.runtimeconfig.json
+C:\CustomData\Study\C#\ParallelProgramming\ConcurrentCollections\ConcurrentCollections\bin\Debug\netcoreapp2.1\ConcurrentCollections.runtimeconfig.dev.json
+C:\CustomData\Study\C#\ParallelProgramming\ConcurrentCollections\ConcurrentCollections\bin\Debug\netcoreapp2.1\ConcurrentCollections.dll
+C:\CustomData\Study\C#\ParallelProgramming\ConcurrentCollections\ConcurrentCollections\bin\Debug\netcoreapp2.1\ConcurrentCollections.pdb
+C:\CustomData\Study\C#\ParallelProgramming\ConcurrentCollections\ConcurrentCollections\obj\Debug\netcoreapp2.1\ConcurrentCollections.csprojAssemblyReference.cache
+C:\CustomData\Study\C#\ParallelProgramming\ConcurrentCollections\ConcurrentCollections\obj\Debug\netcoreapp2.1\ConcurrentCollections.csproj.CoreCompileInputs.cache
+C:\CustomData\Study\C#\ParallelProgramming\ConcurrentCollections\ConcurrentCollections\obj\Debug\netcoreapp2.1\ConcurrentCollections.AssemblyInfoInputs.cache
+C:\CustomData\Study\C#\ParallelProgramming\ConcurrentCollections\ConcurrentCollections\obj\Debug\netcoreapp2.1\ConcurrentCollections.AssemblyInfo.cs
+C:\CustomData\Study\C#\ParallelProgramming\ConcurrentCollections\ConcurrentCollections\obj\Debug\netcoreapp2.1\ConcurrentCollections.dll
+C:\CustomData\Study\C#\ParallelProgramming\ConcurrentCollections\ConcurrentCollections\obj\Debug\netcoreapp2.1\ConcurrentCollections.pdb

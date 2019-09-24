@@ -1,0 +1,11 @@
+C:\CustomData\Study\C#\ParallelProgramming\AsynchronousProgramming\AsynchronousProgramming\bin\Debug\netcoreapp2.1\AsynchronousProgramming.deps.json
+C:\CustomData\Study\C#\ParallelProgramming\AsynchronousProgramming\AsynchronousProgramming\bin\Debug\netcoreapp2.1\AsynchronousProgramming.runtimeconfig.json
+C:\CustomData\Study\C#\ParallelProgramming\AsynchronousProgramming\AsynchronousProgramming\bin\Debug\netcoreapp2.1\AsynchronousProgramming.runtimeconfig.dev.json
+C:\CustomData\Study\C#\ParallelProgramming\AsynchronousProgramming\AsynchronousProgramming\bin\Debug\netcoreapp2.1\AsynchronousProgramming.dll
+C:\CustomData\Study\C#\ParallelProgramming\AsynchronousProgramming\AsynchronousProgramming\bin\Debug\netcoreapp2.1\AsynchronousProgramming.pdb
+C:\CustomData\Study\C#\ParallelProgramming\AsynchronousProgramming\AsynchronousProgramming\obj\Debug\netcoreapp2.1\AsynchronousProgramming.csprojAssemblyReference.cache
+C:\CustomData\Study\C#\ParallelProgramming\AsynchronousProgramming\AsynchronousProgramming\obj\Debug\netcoreapp2.1\AsynchronousProgramming.csproj.CoreCompileInputs.cache
+C:\CustomData\Study\C#\ParallelProgramming\AsynchronousProgramming\AsynchronousProgramming\obj\Debug\netcoreapp2.1\AsynchronousProgramming.AssemblyInfoInputs.cache
+C:\CustomData\Study\C#\ParallelProgramming\AsynchronousProgramming\AsynchronousProgramming\obj\Debug\netcoreapp2.1\AsynchronousProgramming.AssemblyInfo.cs
+C:\CustomData\Study\C#\ParallelProgramming\AsynchronousProgramming\AsynchronousProgramming\obj\Debug\netcoreapp2.1\AsynchronousProgramming.dll
+C:\CustomData\Study\C#\ParallelProgramming\AsynchronousProgramming\AsynchronousProgramming\obj\Debug\netcoreapp2.1\AsynchronousProgramming.pdb

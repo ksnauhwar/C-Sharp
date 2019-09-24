@@ -1,0 +1,11 @@
+C:\CustomData\Study\C#\ParallelProgramming\TaskCancellation\TaskCancellation\bin\Debug\netcoreapp2.1\TaskCancellation.deps.json
+C:\CustomData\Study\C#\ParallelProgramming\TaskCancellation\TaskCancellation\bin\Debug\netcoreapp2.1\TaskCancellation.runtimeconfig.json
+C:\CustomData\Study\C#\ParallelProgramming\TaskCancellation\TaskCancellation\bin\Debug\netcoreapp2.1\TaskCancellation.runtimeconfig.dev.json
+C:\CustomData\Study\C#\ParallelProgramming\TaskCancellation\TaskCancellation\bin\Debug\netcoreapp2.1\TaskCancellation.dll
+C:\CustomData\Study\C#\ParallelProgramming\TaskCancellation\TaskCancellation\bin\Debug\netcoreapp2.1\TaskCancellation.pdb
+C:\CustomData\Study\C#\ParallelProgramming\TaskCancellation\TaskCancellation\obj\Debug\netcoreapp2.1\TaskCancellation.csprojAssemblyReference.cache
+C:\CustomData\Study\C#\ParallelProgramming\TaskCancellation\TaskCancellation\obj\Debug\netcoreapp2.1\TaskCancellation.csproj.CoreCompileInputs.cache
+C:\CustomData\Study\C#\ParallelProgramming\TaskCancellation\TaskCancellation\obj\Debug\netcoreapp2.1\TaskCancellation.AssemblyInfoInputs.cache
+C:\CustomData\Study\C#\ParallelProgramming\TaskCancellation\TaskCancellation\obj\Debug\netcoreapp2.1\TaskCancellation.AssemblyInfo.cs
+C:\CustomData\Study\C#\ParallelProgramming\TaskCancellation\TaskCancellation\obj\Debug\netcoreapp2.1\TaskCancellation.dll
+C:\CustomData\Study\C#\ParallelProgramming\TaskCancellation\TaskCancellation\obj\Debug\netcoreapp2.1\TaskCancellation.pdb

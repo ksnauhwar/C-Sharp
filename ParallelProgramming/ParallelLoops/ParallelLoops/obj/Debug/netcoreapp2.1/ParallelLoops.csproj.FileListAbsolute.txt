@@ -1,0 +1,11 @@
+C:\CustomData\Study\C#\ParallelProgramming\ParallelLoops\ParallelLoops\bin\Debug\netcoreapp2.1\ParallelLoops.deps.json
+C:\CustomData\Study\C#\ParallelProgramming\ParallelLoops\ParallelLoops\bin\Debug\netcoreapp2.1\ParallelLoops.runtimeconfig.json
+C:\CustomData\Study\C#\ParallelProgramming\ParallelLoops\ParallelLoops\bin\Debug\netcoreapp2.1\ParallelLoops.runtimeconfig.dev.json
+C:\CustomData\Study\C#\ParallelProgramming\ParallelLoops\ParallelLoops\bin\Debug\netcoreapp2.1\ParallelLoops.dll
+C:\CustomData\Study\C#\ParallelProgramming\ParallelLoops\ParallelLoops\bin\Debug\netcoreapp2.1\ParallelLoops.pdb
+C:\CustomData\Study\C#\ParallelProgramming\ParallelLoops\ParallelLoops\obj\Debug\netcoreapp2.1\ParallelLoops.csprojAssemblyReference.cache
+C:\CustomData\Study\C#\ParallelProgramming\ParallelLoops\ParallelLoops\obj\Debug\netcoreapp2.1\ParallelLoops.csproj.CoreCompileInputs.cache
+C:\CustomData\Study\C#\ParallelProgramming\ParallelLoops\ParallelLoops\obj\Debug\netcoreapp2.1\ParallelLoops.AssemblyInfoInputs.cache
+C:\CustomData\Study\C#\ParallelProgramming\ParallelLoops\ParallelLoops\obj\Debug\netcoreapp2.1\ParallelLoops.AssemblyInfo.cs
+C:\CustomData\Study\C#\ParallelProgramming\ParallelLoops\ParallelLoops\obj\Debug\netcoreapp2.1\ParallelLoops.dll
+C:\CustomData\Study\C#\ParallelProgramming\ParallelLoops\ParallelLoops\obj\Debug\netcoreapp2.1\ParallelLoops.pdb

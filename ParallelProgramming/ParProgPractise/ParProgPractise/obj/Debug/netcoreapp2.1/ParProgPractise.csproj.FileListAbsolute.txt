@@ -1,0 +1,11 @@
+C:\CustomData\Study\C#\ParallelProgramming\ParProgPractise\ParProgPractise\bin\Debug\netcoreapp2.1\ParProgPractise.deps.json
+C:\CustomData\Study\C#\ParallelProgramming\ParProgPractise\ParProgPractise\bin\Debug\netcoreapp2.1\ParProgPractise.runtimeconfig.json
+C:\CustomData\Study\C#\ParallelProgramming\ParProgPractise\ParProgPractise\bin\Debug\netcoreapp2.1\ParProgPractise.runtimeconfig.dev.json
+C:\CustomData\Study\C#\ParallelProgramming\ParProgPractise\ParProgPractise\bin\Debug\netcoreapp2.1\ParProgPractise.dll
+C:\CustomData\Study\C#\ParallelProgramming\ParProgPractise\ParProgPractise\bin\Debug\netcoreapp2.1\ParProgPractise.pdb
+C:\CustomData\Study\C#\ParallelProgramming\ParProgPractise\ParProgPractise\obj\Debug\netcoreapp2.1\ParProgPractise.csprojAssemblyReference.cache
+C:\CustomData\Study\C#\ParallelProgramming\ParProgPractise\ParProgPractise\obj\Debug\netcoreapp2.1\ParProgPractise.csproj.CoreCompileInputs.cache
+C:\CustomData\Study\C#\ParallelProgramming\ParProgPractise\ParProgPractise\obj\Debug\netcoreapp2.1\ParProgPractise.AssemblyInfoInputs.cache
+C:\CustomData\Study\C#\ParallelProgramming\ParProgPractise\ParProgPractise\obj\Debug\netcoreapp2.1\ParProgPractise.AssemblyInfo.cs
+C:\CustomData\Study\C#\ParallelProgramming\ParProgPractise\ParProgPractise\obj\Debug\netcoreapp2.1\ParProgPractise.dll
+C:\CustomData\Study\C#\ParallelProgramming\ParProgPractise\ParProgPractise\obj\Debug\netcoreapp2.1\ParProgPractise.pdb

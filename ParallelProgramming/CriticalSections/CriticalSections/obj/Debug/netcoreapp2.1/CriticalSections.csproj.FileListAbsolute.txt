@@ -1,0 +1,11 @@
+C:\CustomData\Study\C#\ParallelProgramming\CriticalSections\CriticalSections\bin\Debug\netcoreapp2.1\CriticalSections.deps.json
+C:\CustomData\Study\C#\ParallelProgramming\CriticalSections\CriticalSections\bin\Debug\netcoreapp2.1\CriticalSections.runtimeconfig.json
+C:\CustomData\Study\C#\ParallelProgramming\CriticalSections\CriticalSections\bin\Debug\netcoreapp2.1\CriticalSections.runtimeconfig.dev.json
+C:\CustomData\Study\C#\ParallelProgramming\CriticalSections\CriticalSections\bin\Debug\netcoreapp2.1\CriticalSections.dll
+C:\CustomData\Study\C#\ParallelProgramming\CriticalSections\CriticalSections\bin\Debug\netcoreapp2.1\CriticalSections.pdb
+C:\CustomData\Study\C#\ParallelProgramming\CriticalSections\CriticalSections\obj\Debug\netcoreapp2.1\CriticalSections.csprojAssemblyReference.cache
+C:\CustomData\Study\C#\ParallelProgramming\CriticalSections\CriticalSections\obj\Debug\netcoreapp2.1\CriticalSections.csproj.CoreCompileInputs.cache
+C:\CustomData\Study\C#\ParallelProgramming\CriticalSections\CriticalSections\obj\Debug\netcoreapp2.1\CriticalSections.AssemblyInfoInputs.cache
+C:\CustomData\Study\C#\ParallelProgramming\CriticalSections\CriticalSections\obj\Debug\netcoreapp2.1\CriticalSections.AssemblyInfo.cs
+C:\CustomData\Study\C#\ParallelProgramming\CriticalSections\CriticalSections\obj\Debug\netcoreapp2.1\CriticalSections.dll
+C:\CustomData\Study\C#\ParallelProgramming\CriticalSections\CriticalSections\obj\Debug\netcoreapp2.1\CriticalSections.pdb

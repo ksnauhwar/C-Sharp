@@ -1,0 +1,11 @@
+C:\CustomData\Study\C#\ParallelProgramming\TaksBasics\TaksBasics\bin\Debug\netcoreapp2.1\TaksBasics.deps.json
+C:\CustomData\Study\C#\ParallelProgramming\TaksBasics\TaksBasics\bin\Debug\netcoreapp2.1\TaksBasics.runtimeconfig.json
+C:\CustomData\Study\C#\ParallelProgramming\TaksBasics\TaksBasics\bin\Debug\netcoreapp2.1\TaksBasics.runtimeconfig.dev.json
+C:\CustomData\Study\C#\ParallelProgramming\TaksBasics\TaksBasics\bin\Debug\netcoreapp2.1\TaksBasics.dll
+C:\CustomData\Study\C#\ParallelProgramming\TaksBasics\TaksBasics\bin\Debug\netcoreapp2.1\TaksBasics.pdb
+C:\CustomData\Study\C#\ParallelProgramming\TaksBasics\TaksBasics\obj\Debug\netcoreapp2.1\TaksBasics.csprojAssemblyReference.cache
+C:\CustomData\Study\C#\ParallelProgramming\TaksBasics\TaksBasics\obj\Debug\netcoreapp2.1\TaksBasics.csproj.CoreCompileInputs.cache
+C:\CustomData\Study\C#\ParallelProgramming\TaksBasics\TaksBasics\obj\Debug\netcoreapp2.1\TaksBasics.AssemblyInfoInputs.cache
+C:\CustomData\Study\C#\ParallelProgramming\TaksBasics\TaksBasics\obj\Debug\netcoreapp2.1\TaksBasics.AssemblyInfo.cs
+C:\CustomData\Study\C#\ParallelProgramming\TaksBasics\TaksBasics\obj\Debug\netcoreapp2.1\TaksBasics.dll
+C:\CustomData\Study\C#\ParallelProgramming\TaksBasics\TaksBasics\obj\Debug\netcoreapp2.1\TaksBasics.pdb

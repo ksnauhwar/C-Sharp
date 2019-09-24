@@ -1,0 +1,11 @@
+C:\CustomData\Study\C#\ParallelProgramming\TaskWait\TaskWait\bin\Debug\netcoreapp2.1\TaskWait.deps.json
+C:\CustomData\Study\C#\ParallelProgramming\TaskWait\TaskWait\bin\Debug\netcoreapp2.1\TaskWait.runtimeconfig.json
+C:\CustomData\Study\C#\ParallelProgramming\TaskWait\TaskWait\bin\Debug\netcoreapp2.1\TaskWait.runtimeconfig.dev.json
+C:\CustomData\Study\C#\ParallelProgramming\TaskWait\TaskWait\bin\Debug\netcoreapp2.1\TaskWait.dll
+C:\CustomData\Study\C#\ParallelProgramming\TaskWait\TaskWait\bin\Debug\netcoreapp2.1\TaskWait.pdb
+C:\CustomData\Study\C#\ParallelProgramming\TaskWait\TaskWait\obj\Debug\netcoreapp2.1\TaskWait.csproj.CoreCompileInputs.cache
+C:\CustomData\Study\C#\ParallelProgramming\TaskWait\TaskWait\obj\Debug\netcoreapp2.1\TaskWait.AssemblyInfoInputs.cache
+C:\CustomData\Study\C#\ParallelProgramming\TaskWait\TaskWait\obj\Debug\netcoreapp2.1\TaskWait.AssemblyInfo.cs
+C:\CustomData\Study\C#\ParallelProgramming\TaskWait\TaskWait\obj\Debug\netcoreapp2.1\TaskWait.dll
+C:\CustomData\Study\C#\ParallelProgramming\TaskWait\TaskWait\obj\Debug\netcoreapp2.1\TaskWait.pdb
+C:\CustomData\Study\C#\ParallelProgramming\TaskWait\TaskWait\obj\Debug\netcoreapp2.1\TaskWait.csprojAssemblyReference.cache
